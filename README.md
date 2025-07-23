@@ -1,26 +1,26 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Jefferson!;Dise%C3%B1ador+UX%2FUI+%7C+Dev+Mobile+Freelance;Amante+del+dise%C3%B1o+centrado+en+el+usuario" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Jefferson!;UX%2FUI+Designer+%7C+Freelance+Mobile+Developer;User-centered+design+enthusiast" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Bienvenido a mi espacio creativo 👨‍💻🎨</h1>
+<h1 align="center">Welcome to my creative space 👨‍💻🎨</h1>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-🌟 Profesional en **Expresión Gráfica y Digital**  
-🧩 Técnico en **Sistemas y Tecnologías de la Información**  
-💼 Experiencia freelance desde 2020 en diseño UX/UI y desarrollo mobile  
-🌎 Apasionado por la innovación, la accesibilidad y las experiencias memorables  
-📍 Ubicado en Colombia — trabajando globalmente 🌍
+🌟 Bachelor's in **Graphic and Digital Expression**  
+🧩 Technician in **Information Systems & Technology**  
+💼 Freelance experience since 2020 in UX/UI design & mobile development  
+🌎 Passionate about innovation, accessibility, and meaningful experiences  
+📍 Based in Colombia — working worldwide 🌍
 
 ---
 
-### 🎨 Diseño + Tecnología
+### 🎨 Design + Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/InDesign-EF426F?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 
-  <p align="center">
+<p align="center">
   <br><br>
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -49,35 +49,35 @@
 
 ---
 
-### 🌟 Proyectos Destacados
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/300x200.png?text=App+Delivery+UX" width="300"><br>
       <b>UX App Delivery</b><br>
-      Diseño de app para pedidos con enfoque mobile-first<br>
-      <a href="https://www.behance.net/" target="_blank">Ver más</a>
+      Food delivery app designed mobile-first<br>
+      <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/300x200.png?text=Landing+UI+Clean" width="300"><br>
       <b>Landing Page UI</b><br>
-      Interfaz limpia y conversacional para marca tecnológica<br>
-      <a href="https://www.behance.net/" target="_blank">Ver más</a>
+      Clean conversational interface for a tech brand<br>
+      <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/300x200.png?text=Dashboard+Analytics+UX" width="300"><br>
       <b>Dashboard Analytics</b><br>
-      Visualización de datos interactiva, optimizada para SaaS<br>
-      <a href="https://www.behance.net/" target="_blank">Ver más</a>
+      Interactive data dashboard for SaaS platform<br>
+      <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=Redise%C3%B1o+E-commerce" width="300"><br>
-      <b>Rediseño E-commerce</b><br>
-      Experiencia de usuario mejorada para aumentar conversión<br>
-      <a href="https://www.behance.net/" target="_blank">Ver más</a>
+      <img src="https://via.placeholder.com/300x200.png?text=E-commerce+Redesign" width="300"><br>
+      <b>E-commerce Redesign</b><br>
+      Improved UX to boost conversion rates<br>
+      <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
   </tr>
 </table>
@@ -93,37 +93,37 @@
 
 ---
 
-### 🧰 Mis habilidades
+### 🧰 Skills
 
-- UI/UX para apps y sitios responsive  
-- Prototipos en Figma, XD y Flutter  
-- QA funcional básico y pruebas de usabilidad  
-- Wireframes, flujos de usuario y sistemas de diseño  
-- Mejora continua basada en métricas e investigación UX  
-
----
-
-### 🌱 Actualmente aprendiendo
-
-- QA y automatización de pruebas  
-- Diseño inclusivo (WCAG / A11y)  
-- Inglés técnico avanzado  
+- UI/UX for responsive websites & mobile apps  
+- Prototyping with Figma, XD, Flutter  
+- Basic QA and usability testing  
+- Wireframing, user flows, and design systems  
+- Continuous improvement based on UX research & metrics  
 
 ---
 
-### 📫 Contacto
+### 🌱 Currently Learning
+
+- QA & test automation  
+- Inclusive design (WCAG / A11y)  
+- Advanced technical English  
+
+---
+
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:spes.k7@gmail.com"><img src="https://img.shields.io/badge/Email-spes.k7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://TU-PORTAFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portafolio-Web-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://TU-PORTAFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Web-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✨ Frase que me define
+### ✨ Quote I Live By
 
-> “Diseñar no es solo cómo se ve o cómo se siente. Diseñar es cómo funciona.” — Steve Jobs
+> “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer"/>
