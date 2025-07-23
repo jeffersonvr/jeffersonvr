@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Jefferson!;Dise%C3%B1ador+UX%2FUI+%7C+Dev+Mobile+Freelance;Amante+del+dise%C3%B1o+centrado+en+el+usuario" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Jefferson!;Dise%C3%B1ador+UX%2FUI+%7C+Dev+Mobile+Freelance;Amante+del+dise%C3%B1o+centrado+en+el+usuario" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Bienvenido a mi espacio creativo 👨‍💻🎨</h1>
@@ -16,7 +16,7 @@
 🧩 Técnico en **Sistemas y Tecnologías de la Información**  
 💼 Experiencia freelance desde 2020 en diseño UX/UI y desarrollo mobile  
 🌎 Apasionado por la innovación, la accesibilidad y las experiencias memorables  
-📍 Basado en Colombia — trabajando globalmente 🌍
+📍 Ubicado en Colombia — trabajando globalmente 🌍
 
 ---
 
