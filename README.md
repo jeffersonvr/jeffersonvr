@@ -114,7 +114,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:spes.k7@gmail.com"><img src="https://img.shields.io/badge/Email-spes.k7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="spes.k7@gmail.com"><img src="https://img.shields.io/badge/Email-spes.k7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jefferson-vargas-ch/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://jeffersonvargas.myportfolio.com/home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Web-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
