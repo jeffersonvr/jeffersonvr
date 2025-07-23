@@ -54,13 +54,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=App+Delivery+UX" width="300"><br>
+      <img src="https://github.com/jeffersonvr/jeffersonvr/blob/main/1.jpeg" width="300"><br>
       <b>UX App Delivery</b><br>
       Food delivery app designed mobile-first<br>
       <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=Landing+UI+Clean" width="300"><br>
+      <img src="https://github.com/jeffersonvr/jeffersonvr/blob/main/3.jpeg" width="300"><br>
       <b>Landing Page UI</b><br>
       Clean conversational interface for a tech brand<br>
       <a href="https://www.behance.net/" target="_blank">View More</a>
@@ -68,13 +68,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=Dashboard+Analytics+UX" width="300"><br>
+      <img src="https://github.com/jeffersonvr/jeffersonvr/blob/main/2.jpeg" width="300"><br>
       <b>Dashboard Analytics</b><br>
       Interactive data dashboard for SaaS platform<br>
       <a href="https://www.behance.net/" target="_blank">View More</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=E-commerce+Redesign" width="300"><br>
+      <img src="https://github.com/jeffersonvr/jeffersonvr/blob/main/4.jpeg" width="300"><br>
       <b>E-commerce Redesign</b><br>
       Improved UX to boost conversion rates<br>
       <a href="https://www.behance.net/" target="_blank">View More</a>
