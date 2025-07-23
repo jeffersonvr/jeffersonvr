@@ -126,5 +126,5 @@
 > “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer"/>
 </p>
