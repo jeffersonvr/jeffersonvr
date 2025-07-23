@@ -20,8 +20,18 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+## Tools 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,aftereffects,photoshop,illustrator,wordpress,express,figma,github,html,java,js,linux,mysql,postman,py,=14" />
   </a>
 </p>
+
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
+
+-------------------
+&emsp;
